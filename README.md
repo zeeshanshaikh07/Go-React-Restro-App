@@ -15,13 +15,13 @@ This the the repo for my fullstack restaurant app in which the server is Golang,
 Clone the project
 
 ```bash
-  git clone https://github.com/zeeshanshaikh07/Go-React Restro App.git
+  git clone https://github.com/zeeshanshaikh07/Go-React-Restro-App.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Go-React Restro App
+  cd Go-React-Restro-App
 ```
 ### MongoDB
 
