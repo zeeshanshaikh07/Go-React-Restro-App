@@ -69,3 +69,7 @@ Start the server
   npm start
 ```
 Go to http://localhost:5000
+
+## Author
+
+#### :sun_with_face: Zeeshan Shaikh
