@@ -40,6 +40,13 @@ To install it run the below command in the terminal or command window.
 ```bash
   go get -u github.com/gorilla/mux
 ```
+
+We will be using the Gin framework. Gin is a web framework written in Go (Golang). It features a martini-like API with performance that is up to 40 times faster thanks to httprouter.
+
+```bash
+  go get -u github.com/gin-gonic/gin
+```
+
 we can now build and run our server, First navigate to the server directory and enter the following commands:
 
 ```bash
